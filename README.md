@@ -49,26 +49,35 @@ system such as Golang.
 26. Did lot of coding, designing reviews and refactoring activities.
 
 # Skills
-**Programming languages**
+
+**Programming languages**:
 PHP7, Bash, Javascript, HTML5, Python, JSON
-**Frameworks**
+
+**Frameworks**:
 Symfony, Zend Framework, YII
-**Web Services**
+
+**Web Services**:
 Restfull, SOAP, Microservices, GraphQL, Web Sockets,CDN
-**Databases**
+
+**Databases**:
 Mysql Percona, Maria DB, Redis, Memcached, Mysql Router
-**AMQP**
+
+**AMQP**:
 Rabbit, Gearman
  
-**Monitoring**
+**Monitoring**:
 Zabbix, Sentry
-**Testing**
+
+**Testing**:
 Phpunit, Behat, Nginx stress testing, Apache Benchmark, Load balancing
-**Design Principles**
+
+**Design Principles**:
 DRY, KISS, SOLID, Domain Design Development
-**DevOps**
+
+**DevOps**:
 Git, Bitbucket, Ansible, Jenkins, Cloudformation, Docker
-**Cloud**
+
+**Cloud**:
 Vertica, AWS, Percona Cluster, Elasticsearch
 
 
